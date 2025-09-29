@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating simple projects since 2022<br>
-📚 Currently learning: Web Development<br>
+📚 Currently learning: Web Development/Game Development in Roblox Studio<br>
 🎯 Goals: Build and Collaborate with impactful open-source projects<br>
 </p>
 
