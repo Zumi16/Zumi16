@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name real name is Saaduden and I'm an IT student, from Philippines.</p>
+<p align="left">My real name is Saaduden, and I’m an IT student from the Philippines. I have a strong interest in technology, especially in web development and game development using Roblox Studio. I enjoy building creative projects that combine both functionality and fun—whether it’s designing websites or creating interactive game experiences. I’m passionate about learning, experimenting with new ideas, and improving my skills as I continue my journey in IT.</p>
 
 ---
 
