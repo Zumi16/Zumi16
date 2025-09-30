@@ -16,7 +16,7 @@
 🎯 Goals: Build and Collaborate with impactful open-source projects<br>
 </p>
 
----
+<hr>
 
 <h2 align="left">I Code With</h2>
 
@@ -67,14 +67,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
----
+<hr>
 
 <h2 align="left">Featured Projects</h2>
 
 - 🕹️ [**Roblox Obby Game Prototype**](#) — Inspired by The Obby Game with custom mechanics.  
 - 🌐 [**One Stop AI-Integrated Website for PUP Paranaque Campus**](#) — One-stop website for students & faculty.  
 
----
+<hr>
 
 <h2 align="left">GitHub Stats</h2>
 
@@ -84,7 +84,7 @@
 
 </div>
 
----
+<hr>
 
 <h2 align="left">Socials</h2>
 <div align="left">
