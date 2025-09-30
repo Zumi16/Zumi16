@@ -72,8 +72,8 @@
 <h2 align="left">Featured Projects</h2>
 
 - 📊 [**Campus Analytics Dashboard**](#) — Academic data analytics for accreditation & reporting.  
-- 🕹️ [**Roblox Horror Game Prototype**](#) — Inspired by Hapunan with custom mechanics.  
-- 🌐 [**AI-Integrated Campus Website**](#) — One-stop portal for students & faculty.  
+- 🕹️ [**Roblox Obby Game Prototype**](#) — Inspired by The Obby Game with custom mechanics.  
+- 🌐 [**One Stop AI-Integrated Website for PUP Paranaque Campus**](#) — One-stop website for students & faculty.  
 
 ---
 
