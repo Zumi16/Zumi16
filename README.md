@@ -6,13 +6,20 @@
 
 ---
 
+## 🔗 Check out my Portfolio!
+<div align="left">
+  <p> Explore my latest projects and skills here: <b>https://zumi16.github.io/</b></p>
+</div>
+
+---
+
 <h2 align="left">About Me</h2>
 
 ###
 
 <p align="left">
 ✨ Creating simple projects since 2022<br>
-📚 Currently learning: Web Development/Game Development in Roblox Studio<br>
+📚 Currently learning: Web Development<br>
 🎯 Goals: Build and Collaborate with impactful open-source projects<br>
 </p>
 
@@ -73,8 +80,8 @@
 
 <h2 align="left">Featured Projects</h2>
 
-- 🌐 [**One Stop AI-Integrated Website for PUP Paranaque Campus**](#) — One-stop website for students & faculty.  
-
+- [**One Stop AI-Integrated Website for PUP Paranaque Campus**](#) — One-stop website for students & faculty.  
+- 
 <hr>
 
 <h2 align="left">GitHub Stats</h2>
