@@ -6,7 +6,7 @@
 
 ---
 
-## 🔗 Check out my <a href="https://zumi16.github.io/" Portfolio! </a>
+## 🔗 Check out my <a href="https://zumi16.github.io/"> Portfolio! </a>
 <div align="left">
   <h3> Explore my latest projects and skills here: <b>https://zumi16.github.io/</b></h3>
 </div>
