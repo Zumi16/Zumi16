@@ -4,6 +4,7 @@
 
 <p align="left">I’m a fourth-year Information Technology student at Polytechnic University of the Philippines. I enjoy building creative projects that combine both functionality and fun—whether it’s designing websites or creating interactive game experiences. I’m passionate about learning, Exploring the realms of coding, cloud and building robust web applications.</p>
 
+
 ## 🔗 Check out my coding <a href="https://zumi16.github.io/"> Portfolio! </a>
 
 
@@ -77,7 +78,6 @@
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
     </div>
-<hr>
 
 <h2 align="left">Featured Projects</h2>
 
