@@ -52,14 +52,14 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+    <img width="12" />
   </div>
 <h2 align="left">Libraries/Frameworks</h2>
     <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
         <img width="12" />
@@ -81,6 +81,7 @@
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
         <img width="12" />
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
     </div>
 <hr>
 
