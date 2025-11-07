@@ -1,12 +1,12 @@
-<h1 align="left">Hello, I'm Zumi !!</h1>
+<h1 align="left">Hello, I'm Zumi!</h1>
 
 ###
 
-<p align="left">My real name is Saaduden, and I’m an IT student from the Philippines. I have a strong interest in technology, especially in web development and game development using Roblox Studio. I enjoy building creative projects that combine both functionality and fun—whether it’s designing websites or creating interactive game experiences. I’m passionate about learning, experimenting with new ideas, and improving my skills as I continue my journey in IT.</p>
+<p align="left">I’m a fourth-year Information Technology student at Polytechnic University of the Philippines. I enjoy building creative projects that combine both functionality and fun—whether it’s designing websites or creating interactive game experiences. I’m passionate about learning, Exploring the realms of coding, cloud and building robust web applications.</p>
 
 ---
 
-## 🔗 Check out my Portfolio!
+## 🔗 Check out my <a href="https://zumi16.github.io/" Portfolio! </a>
 <div align="left">
   <h3> Explore my latest projects and skills here: <b>https://zumi16.github.io/</b></h3>
 </div>
