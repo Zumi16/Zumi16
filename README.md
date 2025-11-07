@@ -6,14 +6,11 @@
 
 ---
 
-## 🔗 Check out my <a href="https://zumi16.github.io/"> Portfolio! </a>
-<div align="left">
-  <h3> Explore my latest projects and skills here: <b>https://zumi16.github.io/</b></h3>
-</div>
+## 🔗 Check out my coding <a href="https://zumi16.github.io/"> Portfolio! </a>
 
 ---
 
-<h2 align="left">About Me</h2>
+<h2 align="left">What I'm Up To</h2>
 
 <p align="left">
 ✨ Creating simple projects since 2022<br>
