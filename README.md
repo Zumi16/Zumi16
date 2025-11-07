@@ -3,13 +3,12 @@
 ###
 
 <p align="left">I’m a fourth-year Information Technology student at Polytechnic University of the Philippines. I enjoy building creative projects that combine both functionality and fun—whether it’s designing websites or creating interactive game experiences. I’m passionate about learning, Exploring the realms of coding, cloud and building robust web applications.</p>
-
+<br>
 
 ## 🔗 Check out my coding <a href="https://zumi16.github.io/"> Portfolio! </a>
 
-
-<h2 align="left">What I'm Up To</h2>
-
+<br>
+## 🔗 What I'm Up To
 <p align="left">
 ✨ Creating simple projects since 2022<br>
 📚 Currently learning: Web Development<br>
@@ -91,8 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zumi16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 </div>
-
-<hr>
 
 <h2 align="left">Social Links</h2>
 <div align="left">
