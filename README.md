@@ -45,6 +45,7 @@ I’m a fourth-year Information Technology student at Polytechnic University of 
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
