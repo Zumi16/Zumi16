@@ -8,7 +8,9 @@ I’m a fourth-year Information Technology student at Polytechnic University of 
 <p align="left">
 ✨ Creating simple projects since 2022<br>
 📚 Currently learning: Web Development<br>
+🌿 Currently Working on my portfolio<br>
 🎯 Goals: Build and collaborate with impactful open-source projects<br>
+
 </p>
 
 <h2 align="left">🔗 Check out my <a href="https://zumi16.github.io/">Portfolio</a></h2>
