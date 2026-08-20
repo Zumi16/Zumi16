@@ -13,7 +13,7 @@ I’m a fourth-year Information Technology student at Polytechnic University of 
 
 </p>
 
-<h2 align="left">🔗 Check out my <a href="https://portfolio-website-zumi-solo.vercel.app/">Portfolio</a></h2>
+<h2 align="left">🔗 Check out my <a href="https://portfolio-website-nu-jade-62.vercel.app/">Portfolio</a></h2>
 
 <h2 align="left">Languages</h2>
 <div align="left">
